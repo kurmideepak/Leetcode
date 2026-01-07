@@ -1,4 +1,6 @@
 public class _347_Top_K_Frequent_Element {
+    // Copy and Paste it in Solution Class in Leetcode
+
     public int[] topKFrequent(int[] nums, int k) {
         int[] res = new int[k];
         Map <Integer, Integer> count = new HashMap<>();

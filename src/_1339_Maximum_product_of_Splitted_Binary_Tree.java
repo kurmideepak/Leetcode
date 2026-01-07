@@ -1,4 +1,7 @@
 public class _1339_Maximum_product_of_Splitted_Binary_Tree {
+
+    // Copy and Paste it in Solution Class in Leetcode
+
     long totalSum = 0, maxProduct = 0;
     static final int MOD = 1_000_000_007;
     public int maxProduct(TreeNode root) {
