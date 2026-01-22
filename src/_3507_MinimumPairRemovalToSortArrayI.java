@@ -1,6 +1,6 @@
 public class _3507_MinimumPairRemovalToSortArrayI {
 
-// Copy and Paste it in Solution Class in Leetcode
+        // Copy and Paste it in Solution Class in Leetcode
 
     public int minimumPairRemoval(int[] nums) {
         int n = nums.length;
