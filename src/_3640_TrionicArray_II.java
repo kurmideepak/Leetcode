@@ -1,6 +1,6 @@
 public class _3640_TrionicArray_II {
 
-    // Copy and Paste it in Solution Class in Leetcode
+    // Copy and Paste in Solution Class in Leetcode
 
 
     public long maxSumTrionic(int[] nums) {
