@@ -1,6 +1,6 @@
 public class _3761_MinimumAbsoluteDistanceBetween_MirrorPairs {
 
-    // Copy and paste the below code in your solution
+    // Copy and paste the below code inside your solution class
 
 
     public int minMirrorPairDistance(int[] nums) {
